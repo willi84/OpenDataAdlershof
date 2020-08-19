@@ -105,13 +105,21 @@ adlershof
 - Kabelanbieter
 - Briefkastenleerung, abgabestellen
 - sportwettkampfergebnisse
-- Verkehrsschilder
+- Verkehrsschilder/Straßenschilder
 - Wegemarken
 - Stolpersteine/Ehrengräber
 - wikipedia-Artikel
 - Einschulungszahlen
 - Mietenindex
-
+- Gebiete mit Naturschutz/Denkmalschutz
+- Gebiete mit besonderem Baurecht
+- Brandschutz
+- Fassaden
+- Flächennutzungspläne
+- Investionen
+- Kiezkassenanträge/Projkete
+- AZ-Projekte
+- Petitiionen/Einwohneranträge
 
 tools
 - https://ckan.org/
