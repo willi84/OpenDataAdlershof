@@ -122,6 +122,7 @@ adlershof
 - Petitiionen/Einwohneranträge
 - Vorfälle Berliner Register
 - Straßenübergänge/Bordsteinabsenkungen
+- Subventionen Bezirk, Land, Bund bzw. haushaltsmittel für Adlershof
 
 tools
 - https://ckan.org/
