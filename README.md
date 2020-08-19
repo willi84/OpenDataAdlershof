@@ -105,6 +105,8 @@ adlershof
 - Kabelanbieter
 - Briefkastenleerung, abgabestellen
 - sportwettkampfergebnisse
+- Verkehrsschilder
+- Wegemarken
 
 tools
 - https://ckan.org/
