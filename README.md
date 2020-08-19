@@ -124,6 +124,8 @@ adlershof
 - Straßenübergänge/Bordsteinabsenkungen
 - Subventionen Bezirk, Land, Bund bzw. haushaltsmittel für Adlershof
 - Zufluchtsorte
+- Werbeflächen
+- Leifahrzeuge/services  (Auto, Scooter, Fahrräder, ...)
 
 tools
 - https://ckan.org/
