@@ -132,6 +132,11 @@ adlershof
 - Dokumentationen/Filme mit und über Adlershof
 - Preisträger, Sportler
 - Kriegstote/vermisste, Kriegsbeschädigungen
+- Wasserqualität
+- Baumscheiben
+- Gedenktafeln
+- Werbetafeln
+- Fahrradständer
 
 tools
 - https://ckan.org/
