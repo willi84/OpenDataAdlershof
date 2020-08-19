@@ -109,6 +109,8 @@ adlershof
 - Wegemarken
 - Stolpersteine/Ehrengräber
 - wikipedia-Artikel
+- Einschulungszahlen
+
 
 tools
 - https://ckan.org/
