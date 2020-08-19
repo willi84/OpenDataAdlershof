@@ -107,6 +107,8 @@ adlershof
 - sportwettkampfergebnisse
 - Verkehrsschilder
 - Wegemarken
+- Stolpersteine/Ehrengräber
+- wikipedia-Artikel
 
 tools
 - https://ckan.org/
