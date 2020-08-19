@@ -110,9 +110,12 @@ adlershof
 - Stolpersteine/Ehrengräber
 - wikipedia-Artikel
 - Einschulungszahlen
-- Mietenindex
+- Mietenindex/ortsübliche Vergleichsmiete
 - Gebiete mit Naturschutz/Denkmalschutz
-- Gebiete mit besonderem Baurecht
+- Gebiete mit besonderem Baurecht (Bebauungsplan)
+- Umweltatlas (Wärmedämmung)
+- Fassaden
+- Denkmäler
 - Brandschutz
 - Fassaden
 - Flächennutzungspläne
