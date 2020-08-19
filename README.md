@@ -20,7 +20,7 @@ adlershof
 - luftverschmutzung
 - Bäume
 - Gulli-Deckel
-- Leitungen
+- Leitungen/Kanalsystem
 - Laternen/Maste (Art, Besitzer, Palakatierbar)
 - Straßenqualität (neu, Pflaster etc)
 - sehenswürdigkeiten
