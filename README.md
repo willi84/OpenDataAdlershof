@@ -104,6 +104,7 @@ adlershof
 - Funkdatenzellen, masten, Abdeckung Mobilfunkprovider
 - Kabelanbieter
 - Briefkastenleerung, abgabestellen
+- sportwettkampfergebnisse
 
 tools
 - https://ckan.org/
