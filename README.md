@@ -1,0 +1,75 @@
+# OpenDataAdlershof
+A collection of ideas which data we could collect
+
+
+adlershof
+- places
+- streets
+- Berühtmheiten
+- history
+- population growth
+- Daten der SPK: [Website](https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/service-und-organisationseinheiten/sozialraumorientierte-planungskoordination/artikel.101947.php)
+- wahlergebnisse
+- bilder
+- freie räume
+- geschäfte
+- digitales bezahlen
+- vereine
+- außenbriefkästen
+- temperatur
+- luftverschmutzung
+- Bäume
+- Gulli-Deckel
+- Leitungen
+- Laternen/Maste (Art, Besitzer, Palakatierbar)
+- Straßenqualität (neu, Pflaster etc)
+- sehenswürdigkeiten
+- baumaßnahmen
+- verkehr
+- haltestellen
+- abfahrtszeiten
+- wlan-abdeckung
+- gebäude (art, höhe, alter, wohneinheiten) => müsste bei nem amt zu finden sein
+- firmenatlas
+- universtiätsleben
+- vermüllung
+- adlershofer zeitungsindex (ggf. mit Index zu Artikeln)
+- adlershofer webseiten
+- geocaching
+- öffnungszeiten
+- produkte
+- lieferservices
+- freie Parkplätze
+- freie kitaplätze
+- freie wohnungen
+- openstreetmap
+- baumaßnahmen
+- aktive zentren pläne
+- sitzungsprotokolle
+- BVV/AGH/Bundestag- Anträge zu Adlershof
+- Spielplätze und Spielmöglcihkeiten
+- Open-Veranstaltungskalender
+- Arztpraxen
+- freie Restaurantsitzplätze
+- freie Flächen
+- schmutzige Ecken
+- Kriminalitätsquote
+- (Telefonbuch)
+- Gleise
+- Ampeln
+- Fußgängerüberwege
+- Telefonverteiler
+- Übersicht offener Daten
+- VDSL-Verfügbarkeit bzw. Leitungen: https://www.telekom.de/zuhause/netz/netzausbau-informationen
+- Bodenqualität
+- Suchangebote
+- Biete-Angebote
+- Sitzbänke
+- Markttage
+- ausleihbare Bücher (openLibrary => Bibliothe oder offener Bücherkasten)
+- public Viewing places
+- kleidercontainer
+- bilder schaufensterwettbewerb
+- grabsuche
+- abholzeiten (war tatsächlich mal ne Frage eines neuen Nachbarn)
+- Adressen/Kontakte
