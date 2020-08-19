@@ -73,3 +73,4 @@ adlershof
 - grabsuche
 - abholzeiten (war tatsächlich mal ne Frage eines neuen Nachbarn)
 - Adressen/Kontakte
+- Unterrichtseinheiten (Tag, Lehrer, Fach)
