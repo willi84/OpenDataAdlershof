@@ -74,3 +74,12 @@ adlershof
 - abholzeiten (war tatsächlich mal ne Frage eines neuen Nachbarn)
 - Adressen/Kontakte
 - Unterrichtseinheiten (Tag, Lehrer, Fach)
+- Stammtische
+- Lernzirkel
+- FB-Gruppen
+- Social-Media Profile
+- Youtube-Kanäle
+- Staus (über verkehrslenkung Berlin)
+- öffentliche Anschlüsse
+- Radwege
+- Mülleimer
