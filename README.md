@@ -110,6 +110,7 @@ adlershof
 - Stolpersteine/Ehrengräber
 - wikipedia-Artikel
 - Einschulungszahlen
+- Mietenindex
 
 
 tools
