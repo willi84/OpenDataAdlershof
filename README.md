@@ -95,6 +95,15 @@ adlershof
 - LPD-Mitteilungen (Landespressedienst)
 - Gutachten
 - Sanierungsprojekte
+- Bauprojekte (Kosten etc.)
+- öffentliche Toiletten
+- Barrierefreiheit
+- Lautstärkenverschmutzung
+- OpenWISTA (Einrichtungen etc)
+- Erfindungen/Patente
+- Funkdatenzellen, masten, Abdeckung Mobilfunkprovider
+- Kabelanbieter
+- Briefkastenleerung, abgabestellen
 
 tools
 - https://ckan.org/
