@@ -138,6 +138,7 @@ adlershof
 - Werbetafeln
 - Fahrradständer
 - hotspots
+- geo-Marken: Bluetooth-Beacon, QR-Codes
 
 tools
 - https://ckan.org/
