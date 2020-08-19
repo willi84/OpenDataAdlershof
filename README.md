@@ -137,6 +137,7 @@ adlershof
 - Gedenktafeln
 - Werbetafeln
 - Fahrradständer
+- hotspots
 
 tools
 - https://ckan.org/
